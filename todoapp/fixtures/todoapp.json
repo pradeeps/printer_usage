@@ -1,0 +1,46 @@
+[
+  {
+    "model": "todoapp.post",
+    "pk":1,
+    "fields":{
+      "printer_name": "Printer_1",
+      "locked": "False",
+      "locked_by": "None"
+    }
+  },
+  {
+    "model": "todoapp.post",
+    "pk":2,
+    "fields":{
+      "printer_name": "Printer_2",
+      "locked": "False",
+      "locked_by": "None"
+    }
+  },
+  {
+    "model": "todoapp.post",
+    "pk":3,
+    "fields":{
+      "printer_name": "Printer_3",
+      "locked": "True",
+      "locked_by": "Pradeep Susarla"
+    }
+  },
+  {
+    "model": "todoapp.post",
+    "pk":4,
+    "fields":{
+      "printer_name": "Printer_4",
+      "locked": "False",
+      "locked_by": "None"
+    }
+  },  {
+      "model": "todoapp.post",
+      "pk":5,
+      "fields":{
+        "printer_name": "Printer_5",
+        "locked": "False",
+        "locked_by": "None"
+      }
+    }
+]
